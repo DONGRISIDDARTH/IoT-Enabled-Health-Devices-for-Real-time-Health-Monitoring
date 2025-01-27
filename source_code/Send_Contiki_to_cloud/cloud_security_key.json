@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "centering-sweep-420320",
+  "private_key_id": "9a1744a337f86972fe60d0ca78d7cd7cd3590c8c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCmUUkS732wa32J\nEi7zugin3PdefJrz/5TBhZBP/x9iK4IM60K7kE3RKXtha5XQ+6/ZUJuk32uoLv+V\ng8Qayh1WJU7QH9V94cuaBN7+DJE9s8fHvSSMSxXGiOig6GUH+lywY6sDQYlkyCnv\n/e5ALVKmeuqmJ1nYHJsC71XJ3OuhIW5sXJRSLHJ/M2RU7wiRAsGjzRpIQuMZsJPw\nHE+KWn3bkjxEiu3Pt7wVvuHwZwot4ZAwkjB9xUy6ve5qXkQIr6rAItUeRtpItfo3\nYR6/8E+32SKCK5V66gOV76x8+6NMIgzJ4gHSotuHpXVM/W+pSVqCbXcNtyVPS8Ee\nE3R8S6shAgMBAAECggEAE0HsdoQzPx0VICzSMa+f3rLx1BeUuA2nB2jcEr0xQLRV\ntsH7XD0rW32Efx1eT6BC5mRkXzjs7eCCQMlM6MawEqhXebcD6PNe+C6Z9NvW6ehy\nCJVEoPd1NiOmXvJFt4CkYJqrw6DgJCKeo36ZKoZs8GChYJuEFkdKphJ5Ehpx0Jpe\ntgjipcgg+NJf4xh0LGre0izdoyi/cYnEEtzoqrAHJOyWoCevhrF3ouYh4veep4NP\nCccJMC+qphGoCAmrTWpCSTij5dbWAM3IpqsC4j2SBe0gNkiJtXqkpYJf82pLkMjc\nny4WlIL55/DRwwPg4ky8kMvRr4YsrJZTVkJ+iqRvCQKBgQDknEEDfHoMoQrGcJo9\nvndCIJGtMCjRsSMknQJHPBSRbvx0IqHhyrLNCZlr4dYxKTXTzHEUSvU0PrhcMJ7M\nHZONRSESIag5KifI1hl7IvyNwWNe8ZnCPdG4brSvAYyqGeGzQeeswZjSjlL904M9\nwLqChqSDd6kfDi8FkB8I10D52QKBgQC6Pm/5nNAsgpnCd34BD7Kx/hVOiX74+m6F\nSVgdIDz/ZeBfysKethLPJXS8Iq46Pp4YsqWd/VI6io9ew3NkIScMFgz8yiJx2cvg\nSgazPKekCge62wMNHbeW/7VM+rB3ypz5fPS+lJPT2etMyql7uqGL2nU3MrDPVhVR\nSbz7fVXmiQKBgQCdbq2nBPXX9J9DARB3LM9cDqnDpsK1hVM6R5XmEI3piZD5OVBZ\n+gkgAlhRXvjuaf7TmJrW6rfp/rdfZWw2DLgsNUsM/XinxUwYlrh9gB6EUIVqQN8u\nUPw4EqUDUAHasnAnzl8JLVlcxv6IJjzfLfZDJQ3uK12gMVhYcGOu5u2sIQKBgQCI\nzsaYOD2fBIyIEhiIFQzxvK/QEiYoJGW9GORV+NF11lMcaqfNx/dHHL+EV4FeHZMq\nl0gbJvMZN6EbPj1sJwI02ZnOs3jb4t3lMtt7HCoU0J1e//Rc1SCAFfQKyPeJ91aZ\n2dU6jY+Nhj1XGmOnFLAIOH/z/RNuKlDcdmsQ3b+U6QKBgQCqZeSFp4ohJ5jr/TLq\n/splDtHnleH+fLJ0i6Pff5+aY67CQPWR3XXe9/sF3YQ0M55asAYLnGQRSa5iGP8+\nceK5UGrZtuM/QbcmBwiXAKB92WT+YLYnJ5p6VqjLDyXaFlppzwVbXitpPqHEjcKN\nTWcAOw0SBCXO6l+ZmdAnmQTUKA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "rfid-project@centering-sweep-420320.iam.gserviceaccount.com",
+  "client_id": "103779992483311488125",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rfid-project%40centering-sweep-420320.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
